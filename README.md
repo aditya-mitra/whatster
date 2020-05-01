@@ -10,7 +10,7 @@ Send the following text message on Twlio's number [+1 (415) 523-8886] or [click 
 
 ## About
 
-Whatster is a User-Friendly Whatsapp Chat Bot created using Twilio's Whatsapp API. This bot enables you do image-recognition, email to any receiver, sends you jokes and most important of all it saves any message or media that you send (or forward) to it in a database which is accessible in [whatster](https://whatsterv1.web.app/) website.
+Whatster is a User-Friendly Whatsapp Chat Bot created using Twilio's Whatsapp API. This bot enables you do image-recognition, email to any receiver, sends you jokes and most important of all it saves any message or media that you send (or forward) to it in a database which is accessible in [whatster](https://whatster.web.app/) website.
 
 
 
@@ -21,14 +21,18 @@ When you send a message to the bot, it checks if for a command.
 Then follow instructions received via WhatsApp text - 
 
 ```bash```
+
 ```Type <login> 'to log into Whatster to read messages and media sent in this chat.'```
+
 ```Type <mail> 'to send an email to any email address of your choice with or without an attatchment.'```
+
 ```Type <clarifai> 'to use AI to recognize the contents of a sent image.'```
+
 ```Type <joke> 'to get a randomly generated joke.'```
 
 _By default any other messages or media are just saved in the user's specific account database_
 
-If you login to the [whatster](https://whatsterv1.web.app/) website, you can see yours saved messages and media from your chat with the bot.
+If you login to the [whatster](https://whatster.web.app/) website, you can see yours saved messages and media from your chat with the bot.
 You can even delete the messages and media that you don't want in that website.
 
 _Quite a sync between your Whatsapp account and the Whatster account_
@@ -72,8 +76,11 @@ all the config values we need to run the application:
 
 ### Local development
 
+There are 3 folders.
 
-That's it!
+Each folder is an **app on its own**.
+
+For each app, there are different setup instructions. Please refer to the specific folder for the specific app you want to set up.
 
 ### Cloud deployment
 
@@ -86,7 +93,9 @@ I have deployed my webhooks and the server api for the webapp to heroku and clie
 
 ## Resources
 
-- [GitHub's repository template](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template) functionality
+[Learn to use Twilio's Whatsapp Sandbox](https://www.twilio.com/docs/whatsapp/api#twilio-sandbox-for-whatsapp)
+
+[Learn React](https://reactjs.org/tutorial/tutorial.html)
 
 ## Contributing
 
