@@ -1,4 +1,4 @@
-# Twilio Sample App Template
+# Whatster
 
 [![Actions Status](https://github.com/twilio-labs/sample-template-nodejs/workflows/Node%20CI/badge.svg)](https://github.com/twilio-labs/sample-appointment-reminders/actions)
 
