@@ -4,23 +4,22 @@
 
 ## Get Started
 
-Send the following text message on Twlio's number [+1 (415) 523-8886] or [click here](https://api.whatsapp.com/send?phone=14155238886&text=join%20decide-wish) to start the bot.
+Send ```join decide-wish```  as text message to Twilio's number [+1 (415) 523-8886] or [click here](https://api.whatsapp.com/send?phone=14155238886&text=join%20decide-wish) to start the bot.
 
-```bash join decide-wish```
+
 
 ## About
 
-Whatster is a User-Friendly Whatsapp Chat Bot created using Twilio's Whatsapp API. This bot enables you do image-recognition, email to any receiver, sends you jokes and most important of all it saves any message or media that you send (or forward) to it in a database which is accessible in [whatster](https://whatster.web.app/) website.
+WhatsTer is a User-Friendly WhatsApp Chat Bot created using Twilio's Whatsapp API. This bot enables you to do image-recognition, send emails with or without attachments to any receiver, sends you jokes, and most importantly, it saves any message or media that you send (or forward) to it, in a database which is accessible on the [WhatsTer](https://whatster.web.app/) website.
 
 
 
 ### How it works
 
-When you send a message to the bot, it checks if for a command. 
+When you send a message to the bot, it checks for a command. 
 
-Then follow instructions received via WhatsApp text - 
+The commands are as follows. Follow instructions received via WhatsApp text - 
 
-```bash```
 
 ```Type <login> 'to log into Whatster to read messages and media sent in this chat.'```
 
@@ -30,12 +29,14 @@ Then follow instructions received via WhatsApp text -
 
 ```Type <joke> 'to get a randomly generated joke.'```
 
-_By default any other messages or media are just saved in the user's specific account database_
 
-If you login to the [whatster](https://whatster.web.app/) website, you can see yours saved messages and media from your chat with the bot.
+_By default, any other message or media sent to the bot is saved in the user's specific account database._
+
+
+If you login to the [WhatsTer](https://whatster.web.app/) website, you can see yours saved messages and media from your chat with the bot.
 You can even delete the messages and media that you don't want in that website.
 
-_Quite a sync between your Whatsapp account and the Whatster account_
+_Works in quite a sync between your WhatsApp account and the WhatsTer account!_
 
 
 ## Features
