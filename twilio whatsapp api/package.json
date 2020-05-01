@@ -1,5 +1,5 @@
 {
-  "name": "twilioandmail",
+  "name": "twilio-whatsapp-api-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "aditya-mitra",
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
     "clarifai": "^2.9.1",
