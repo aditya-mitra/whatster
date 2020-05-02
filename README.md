@@ -2,6 +2,8 @@
 
 [![Actions Status](https://github.com/twilio-labs/sample-template-nodejs/workflows/Node%20CI/badge.svg)](https://github.com/twilio-labs/sample-appointment-reminders/actions)
 
+Live at https://whatster.web.app
+
 ## Get Started
 
 Send ```join decide-wish```  as text message to Twilio's number [+1 (415) 523-8886] or [click here](https://api.whatsapp.com/send?phone=14155238886&text=join%20decide-wish) to start the bot.
